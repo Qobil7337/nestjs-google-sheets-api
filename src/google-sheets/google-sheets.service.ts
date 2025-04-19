@@ -91,7 +91,7 @@ export class GoogleSheetsService implements OnModuleInit {
     // Step 3: Iterate over each sheet group
     for (const [sheetName, sheetDataList] of groupedBySheet.entries()) {
       // Step 3.1: Read from sheet (headers and data area)
-      console.log(`\n📄 Processing sheet: ${sheetName}`);
+      console.log(`\nProcessing sheet: ${sheetName}`);
       const sheetData = await this.sheetsClient.spreadsheets.values.get({
         spreadsheetId,
         range: `${sheetName}!B6:BB10`,
@@ -189,11 +189,15 @@ export class GoogleSheetsService implements OnModuleInit {
             data: requests,
           },
         });
-        console.log(`✅ [${sheetName}] Updated ${requests.length} cells`);
+        console.log(`[${sheetName}] Updated ${requests.length} cells`);
       } else {
-        console.log(`⚠️ [${sheetName}] No updates to send`);
+        console.log(`[${sheetName}] No updates to send`);
       }
     }
+    return {
+      message: 'Data successfully written to Google Sheet',
+      updatedSheets: ['ВА', 'Б'],
+    };
   }
 
   // Helper: Convert Russian month string to number
