@@ -1,0 +1,730 @@
+[
+  {
+    "ObjectName": "Б1",
+    "Year": 2024,
+    "Month": 1,
+    "Plan": 12888,
+    "Fact": 11748
+  },
+  {
+    "ObjectName": "Б1",
+    "Year": 2024,
+    "Month": 2,
+    "Plan": 19305,
+    "Fact": 17561
+  },
+  {
+    "ObjectName": "Б1",
+    "Year": 2024,
+    "Month": 3,
+    "Plan": 11704,
+    "Fact": 11998
+  },
+  {
+    "ObjectName": "Б1",
+    "Year": 2024,
+    "Month": 4,
+    "Plan": 19782,
+    "Fact": 20473
+  },
+  {
+    "ObjectName": "Б1",
+    "Year": 2024,
+    "Month": 5,
+    "Plan": 12802,
+    "Fact": 12072
+  },
+  {
+    "ObjectName": "Б1",
+    "Year": 2024,
+    "Month": 6,
+    "Plan": 10204,
+    "Fact": 11220
+  },
+  {
+    "ObjectName": "Б1",
+    "Year": 2024,
+    "Month": 7,
+    "Plan": 15669,
+    "Fact": 16811
+  },
+  {
+    "ObjectName": "Б1",
+    "Year": 2024,
+    "Month": 8,
+    "Plan": 11351,
+    "Fact": 10945
+  },
+  {
+    "ObjectName": "Б1",
+    "Year": 2024,
+    "Month": 9,
+    "Plan": 12727,
+    "Fact": 11580
+  },
+  {
+    "ObjectName": "Б1",
+    "Year": 2024,
+    "Month": 10,
+    "Plan": 17610,
+    "Fact": 16430
+  },
+  {
+    "ObjectName": "Б1",
+    "Year": 2024,
+    "Month": 11,
+    "Plan": 16926,
+    "Fact": 17626
+  },
+  {
+    "ObjectName": "Б1",
+    "Year": 2024,
+    "Month": 12,
+    "Plan": 13936,
+    "Fact": 14439
+  },
+  {
+    "ObjectName": "Б1",
+    "Year": 2025,
+    "Month": 1,
+    "Plan": 17816,
+    "Fact": 17684
+  },
+  {
+    "ObjectName": "Б1",
+    "Year": 2025,
+    "Month": 2,
+    "Plan": 12225,
+    "Fact": 12189
+  },
+  {
+    "ObjectName": "Б1",
+    "Year": 2025,
+    "Month": 3,
+    "Plan": 11625,
+    "Fact": 12749
+  },
+  {
+    "ObjectName": "Б1",
+    "Year": 2025,
+    "Month": 4,
+    "Plan": 10007,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "Б1",
+    "Year": 2025,
+    "Month": 5,
+    "Plan": 16401,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "Б1",
+    "Year": 2025,
+    "Month": 6,
+    "Plan": 18488,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "Б1",
+    "Year": 2025,
+    "Month": 7,
+    "Plan": 19802,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "Б1",
+    "Year": 2025,
+    "Month": 8,
+    "Plan": 14422,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "Б1",
+    "Year": 2025,
+    "Month": 9,
+    "Plan": 19968,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "Б1",
+    "Year": 2025,
+    "Month": 10,
+    "Plan": 16693,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "Б1",
+    "Year": 2025,
+    "Month": 11,
+    "Plan": 15674,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "Б1",
+    "Year": 2025,
+    "Month": 12,
+    "Plan": 17168,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "Б2",
+    "Year": 2024,
+    "Month": 1,
+    "Plan": 11226,
+    "Fact": 12011
+  },
+  {
+    "ObjectName": "Б2",
+    "Year": 2024,
+    "Month": 2,
+    "Plan": 19731,
+    "Fact": 18165
+  },
+  {
+    "ObjectName": "Б2",
+    "Year": 2024,
+    "Month": 3,
+    "Plan": 11287,
+    "Fact": 11905
+  },
+  {
+    "ObjectName": "Б2",
+    "Year": 2024,
+    "Month": 4,
+    "Plan": 17622,
+    "Fact": 17637
+  },
+  {
+    "ObjectName": "Б2",
+    "Year": 2024,
+    "Month": 5,
+    "Plan": 16844,
+    "Fact": 17745
+  },
+  {
+    "ObjectName": "Б2",
+    "Year": 2024,
+    "Month": 6,
+    "Plan": 18415,
+    "Fact": 17359
+  },
+  {
+    "ObjectName": "Б2",
+    "Year": 2024,
+    "Month": 7,
+    "Plan": 13185,
+    "Fact": 13461
+  },
+  {
+    "ObjectName": "Б2",
+    "Year": 2024,
+    "Month": 8,
+    "Plan": 17217,
+    "Fact": 17981
+  },
+  {
+    "ObjectName": "Б2",
+    "Year": 2024,
+    "Month": 9,
+    "Plan": 15167,
+    "Fact": 15204
+  },
+  {
+    "ObjectName": "Б2",
+    "Year": 2024,
+    "Month": 10,
+    "Plan": 10952,
+    "Fact": 9885
+  },
+  {
+    "ObjectName": "Б2",
+    "Year": 2024,
+    "Month": 11,
+    "Plan": 11839,
+    "Fact": 12656
+  },
+  {
+    "ObjectName": "Б2",
+    "Year": 2024,
+    "Month": 12,
+    "Plan": 11662,
+    "Fact": 12411
+  },
+  {
+    "ObjectName": "Б2",
+    "Year": 2025,
+    "Month": 1,
+    "Plan": 18166,
+    "Fact": 16579
+  },
+  {
+    "ObjectName": "Б2",
+    "Year": 2025,
+    "Month": 2,
+    "Plan": 11482,
+    "Fact": 12102
+  },
+  {
+    "ObjectName": "Б2",
+    "Year": 2025,
+    "Month": 3,
+    "Plan": 13967,
+    "Fact": 14983
+  },
+  {
+    "ObjectName": "Б2",
+    "Year": 2025,
+    "Month": 4,
+    "Plan": 10909,
+    "Fact": 11383
+  },
+  {
+    "ObjectName": "Б2",
+    "Year": 2025,
+    "Month": 5,
+    "Plan": 11222,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "Б2",
+    "Year": 2025,
+    "Month": 6,
+    "Plan": 19829,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "Б2",
+    "Year": 2025,
+    "Month": 7,
+    "Plan": 18620,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "Б2",
+    "Year": 2025,
+    "Month": 8,
+    "Plan": 14876,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "Б2",
+    "Year": 2025,
+    "Month": 9,
+    "Plan": 13937,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "Б2",
+    "Year": 2025,
+    "Month": 10,
+    "Plan": 19593,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "Б2",
+    "Year": 2025,
+    "Month": 11,
+    "Plan": 18893,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "Б2",
+    "Year": 2025,
+    "Month": 12,
+    "Plan": 15658,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "Б3",
+    "Year": 2024,
+    "Month": 4,
+    "Plan": 12376,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "Б3",
+    "Year": 2024,
+    "Month": 5,
+    "Plan": 15284,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "Б3",
+    "Year": 2024,
+    "Month": 6,
+    "Plan": 14018,
+    "Fact": 12775
+  },
+  {
+    "ObjectName": "Б3",
+    "Year": 2024,
+    "Month": 7,
+    "Plan": 16033,
+    "Fact": 14965
+  },
+  {
+    "ObjectName": "Б3",
+    "Year": 2024,
+    "Month": 8,
+    "Plan": 13162,
+    "Fact": 12815
+  },
+  {
+    "ObjectName": "Б3",
+    "Year": 2024,
+    "Month": 9,
+    "Plan": 15706,
+    "Fact": 16006
+  },
+  {
+    "ObjectName": "Б3",
+    "Year": 2024,
+    "Month": 10,
+    "Plan": 16026,
+    "Fact": 15742
+  },
+  {
+    "ObjectName": "Б3",
+    "Year": 2024,
+    "Month": 11,
+    "Plan": 19866,
+    "Fact": 17959
+  },
+  {
+    "ObjectName": "Б3",
+    "Year": 2024,
+    "Month": 12,
+    "Plan": 19830,
+    "Fact": 18952
+  },
+  {
+    "ObjectName": "Б3",
+    "Year": 2025,
+    "Month": 1,
+    "Plan": 13665,
+    "Fact": 12338
+  },
+  {
+    "ObjectName": "Б3",
+    "Year": 2025,
+    "Month": 2,
+    "Plan": 13947,
+    "Fact": 14968
+  },
+  {
+    "ObjectName": "Б3",
+    "Year": 2025,
+    "Month": 3,
+    "Plan": 12590,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "Б3",
+    "Year": 2025,
+    "Month": 4,
+    "Plan": 14738,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "Б3",
+    "Year": 2025,
+    "Month": 5,
+    "Plan": 10037,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "Б3",
+    "Year": 2025,
+    "Month": 6,
+    "Plan": 15619,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "Б3",
+    "Year": 2025,
+    "Month": 7,
+    "Plan": 16906,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "Б3",
+    "Year": 2025,
+    "Month": 8,
+    "Plan": 16053,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "Б3",
+    "Year": 2025,
+    "Month": 9,
+    "Plan": 16607,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "Б3",
+    "Year": 2025,
+    "Month": 10,
+    "Plan": 16427,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "Б3",
+    "Year": 2025,
+    "Month": 11,
+    "Plan": 11413,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "Б3",
+    "Year": 2025,
+    "Month": 12,
+    "Plan": 17187,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "ВА1",
+    "Year": 2024,
+    "Month": 1,
+    "Plan": 17429,
+    "Fact": 17052
+  },
+  {
+    "ObjectName": "ВА1",
+    "Year": 2024,
+    "Month": 2,
+    "Plan": 17233,
+    "Fact": 15810
+  },
+  {
+    "ObjectName": "ВА1",
+    "Year": 2024,
+    "Month": 3,
+    "Plan": 16179,
+    "Fact": 16185
+  },
+  {
+    "ObjectName": "ВА1",
+    "Year": 2024,
+    "Month": 4,
+    "Plan": 18501,
+    "Fact": 20226
+  },
+  {
+    "ObjectName": "ВА1",
+    "Year": 2024,
+    "Month": 5,
+    "Plan": 10637,
+    "Fact": 10568
+  },
+  {
+    "ObjectName": "ВА1",
+    "Year": 2024,
+    "Month": 6,
+    "Plan": 15636,
+    "Fact": 14635
+  },
+  {
+    "ObjectName": "ВА1",
+    "Year": 2024,
+    "Month": 7,
+    "Plan": 13386,
+    "Fact": 13616
+  },
+  {
+    "ObjectName": "ВА1",
+    "Year": 2024,
+    "Month": 8,
+    "Plan": 14574,
+    "Fact": 15892
+  },
+  {
+    "ObjectName": "ВА1",
+    "Year": 2024,
+    "Month": 9,
+    "Plan": 19536,
+    "Fact": 20959
+  },
+  {
+    "ObjectName": "ВА1",
+    "Year": 2024,
+    "Month": 10,
+    "Plan": 14365,
+    "Fact": 12946
+  },
+  {
+    "ObjectName": "ВА1",
+    "Year": 2024,
+    "Month": 11,
+    "Plan": 18243,
+    "Fact": 17808
+  },
+  {
+    "ObjectName": "ВА1",
+    "Year": 2024,
+    "Month": 12,
+    "Plan": 18283,
+    "Fact": 18423
+  },
+  {
+    "ObjectName": "ВА1",
+    "Year": 2025,
+    "Month": 1,
+    "Plan": 14568,
+    "Fact": 13140
+  },
+  {
+    "ObjectName": "ВА1",
+    "Year": 2025,
+    "Month": 2,
+    "Plan": 13701,
+    "Fact": 13809
+  },
+  {
+    "ObjectName": "ВА1",
+    "Year": 2025,
+    "Month": 3,
+    "Plan": 19486,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "ВА1",
+    "Year": 2025,
+    "Month": 4,
+    "Plan": 13748,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "ВА1",
+    "Year": 2025,
+    "Month": 5,
+    "Plan": 15781,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "ВА1",
+    "Year": 2025,
+    "Month": 6,
+    "Plan": 15840,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "ВА1",
+    "Year": 2025,
+    "Month": 7,
+    "Plan": 13234,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "ВА1",
+    "Year": 2025,
+    "Month": 8,
+    "Plan": 13789,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "ВА1",
+    "Year": 2025,
+    "Month": 9,
+    "Plan": 18811,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "ВА1",
+    "Year": 2025,
+    "Month": 10,
+    "Plan": 17801,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "ВА1",
+    "Year": 2025,
+    "Month": 11,
+    "Plan": 18789,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "ВА1",
+    "Year": 2025,
+    "Month": 12,
+    "Plan": 13970,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "ВА2",
+    "Year": 2025,
+    "Month": 2,
+    "Plan": 14986,
+    "Fact": 13546
+  },
+  {
+    "ObjectName": "ВА2",
+    "Year": 2025,
+    "Month": 3,
+    "Plan": 16328,
+    "Fact": 15239
+  },
+  {
+    "ObjectName": "ВА2",
+    "Year": 2025,
+    "Month": 4,
+    "Plan": 18429,
+    "Fact": 19078
+  },
+  {
+    "ObjectName": "ВА2",
+    "Year": 2025,
+    "Month": 5,
+    "Plan": 11147,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "ВА2",
+    "Year": 2025,
+    "Month": 6,
+    "Plan": 13016,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "ВА2",
+    "Year": 2025,
+    "Month": 7,
+    "Plan": 17968,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "ВА2",
+    "Year": 2025,
+    "Month": 8,
+    "Plan": 15148,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "ВА2",
+    "Year": 2025,
+    "Month": 9,
+    "Plan": 11903,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "ВА2",
+    "Year": 2025,
+    "Month": 10,
+    "Plan": 11570,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "ВА2",
+    "Year": 2025,
+    "Month": 11,
+    "Plan": 11898,
+    "Fact": ""
+  },
+  {
+    "ObjectName": "ВА2",
+    "Year": 2025,
+    "Month": 12,
+    "Plan": 11834,
+    "Fact": ""
+  }
+]

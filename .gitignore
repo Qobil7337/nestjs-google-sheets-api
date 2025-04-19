@@ -54,3 +54,4 @@ pids
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
 report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+carbide-ratio-457005-s9-a191b5f03e01.json
